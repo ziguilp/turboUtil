@@ -2,7 +2,7 @@
   "name": "turboutil",
   "version": "1.0.0",
   "description": "常用的辅助函数",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cleanLib": "./node_modules/.bin/rimraf lib",

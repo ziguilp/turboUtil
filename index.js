@@ -4,15 +4,15 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _base = require('./base');
+var _base = require('./lib/base');
 
 var _base2 = _interopRequireDefault(_base);
 
-var _miniapp = require('./miniapp');
+var _miniapp = require('./lib/miniapp');
 
 var _miniapp2 = _interopRequireDefault(_miniapp);
 
-var _web = require('./web');
+var _web = require('./lib/web');
 
 var _web2 = _interopRequireDefault(_web);
 
