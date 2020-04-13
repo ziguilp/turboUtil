@@ -9,7 +9,7 @@
     "bableBuild": "./node_modules/.bin/babel src --out-dir lib",
     "prepublish": "npm run cleanLib && npm run bableBuild"
   },
-  "registry": "https://registry.npmjs.org",
+  "registry": "http://git.myturbo.cn/turbo/turboUtil.git",
   "author": "turbo",
   "license": "MIT",
   "devDependencies": {
